@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hey, I'm queen :)! 💖</h1>
+<h1 align="center">🌸 Hey, I'm queen! 💖</h1>
 <h3 align="center">UX/UI Designer, artist & Full Stack Developer in the making ✨</h3>
 
 
@@ -38,10 +38,3 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=86294e&logoColor=white&style=for-the-badge" height="40" />
   </a>
 </div>
-
-<!-- Contribution snake (ver instrucciones abajo si no aparece) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/up220187/up220187/output/snake-dark.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/up220187/up220187/output/snake.svg" height="220" />
-</picture>
-
