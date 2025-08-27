@@ -1,53 +1,50 @@
-<h1 align="center">🌸 Hey, I'm Reyna! 💖</h1>
-<h3 align="center">UX/UI Designer & Full Stack Developer in the making ✨</h3>
+<h1 align="center">🌸 Hey, I'm queen :)! 💖</h1>
+<h3 align="center">UX/UI Designer, artist & Full Stack Developer in the making ✨</h3>
 
-<!-- Encabezado con gradiente pastel (opcional) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=f5c0cf&text=Reyna%20%7C%20UX%2FUI%20%26%20Full%20Stack&fontColor=86294e&fontSize=38&animation=fadeIn&height=100&desc=Design%20with%20heart%20%26%20clarity&descAlignY=75&descAlign=50" alt="pastel header" />
 </p>
 
 <!-- Skills: más grandes y centradas -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="70" alt="html" />
+  <img src="https://skillicons.dev/icons?i=html" height="80" alt="html" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="70" alt="css" />
+  <img src="https://skillicons.dev/icons?i=css" height="80" alt="css" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="70" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="70" alt="react" />
+  <img src="https://skillicons.dev/icons?i=react" height="80" alt="react" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="nodejs" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="70" alt="bootstrap" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="80" alt="bootstrap" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="70" alt="figma" />
+  <img src="https://skillicons.dev/icons?i=figma" height="80" alt="figma" />
 </div>
 
-<!-- Separador cute sin <hr> -->
 <p align="center">⋆ ˚｡⋆୨୧˚ ✿ ˚୨୧⋆｡˚ ⋆</p>
 
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/TU-LINK">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=f5c0cf&logoColor=white&style=for-the-badge" height="34" />
+  <a href="https://reynamartinezcurriculum.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=f28dac&logoColor=white&style=for-the-badge" height="40" />
   </a>
-  <a href="https://dribbble.com/TU-LINK">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=cf3476&logoColor=white&style=for-the-badge" height="34" />
+  <a href="https://www.linkedin.com/in/reyna-del-carmen-martinez-gomez-1608b0270" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=f5c0cf&logoColor=white&style=for-the-badge" height="40" />
   </a>
-  <a href="https://www.behance.net/TU-LINK">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=86294e&logoColor=white&style=for-the-badge" height="34" />
+  <!-- instagram -->
+  <a href="https://www.instagram.com/dear.artt" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=cf3476&logoColor=white&style=for-the-badge" height="40" />
   </a>
-  <a href="https://tu-portafolio.com">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=f28dac&logoColor=white&style=for-the-badge" height="34" />
+
+  <!-- email -->
+  <a href="mailto:reyna.martinez.gmz@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=86294e&logoColor=white&style=for-the-badge" height="40" />
   </a>
 </div>
 
-
+<!-- Contribution snake (ver instrucciones abajo si no aparece) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/up220187/up220187/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/up220187/up220187/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/up220187/up220187/output/snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/up220187/up220187/output/snake.svg" height="220" />
 </picture>
 
-
-<!-- Footer cute -->
-<p align="center">made with 💗, good coffee ☕ and a pastel palette ✨</p>
