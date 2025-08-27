@@ -42,27 +42,12 @@
   </a>
 </div>
 
-<p align="center">♡‧₊˚( minimal · neat · pastel )˚₊‧♡</p>
 
-<!-- Stats más grandes -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=up220187&theme=rose_pine&hide_border=true&border_radius=12&date_format=M%20j[,]%20Y" height="170" alt="streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=up220187&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=dracula" height="170" alt="trophies" />
-</div>
-
-<!-- Snake / Pac-Man (elige uno y configura el workflow) -->
-<!-- Snake (recomendado): -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/up220187/up220187/output/snake-dark.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/up220187/up220187/output/snake.svg">
-</picture>
-
-<!-- Si prefieres Pac-Man, sustituye el bloque anterior por este
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/up220187/up220187/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/up220187/up220187/output/pacman-contribution-graph.svg">
 </picture>
--->
+
 
 <!-- Footer cute -->
 <p align="center">made with 💗, good coffee ☕ and a pastel palette ✨</p>
