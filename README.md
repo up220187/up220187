@@ -1,11 +1,8 @@
 <h1 align="center">🌸 Hey, I'm queen :)! 💖</h1>
 <h3 align="center">UX/UI Designer, artist & Full Stack Developer in the making ✨</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=f5c0cf&text=Reyna%20%7C%20UX%2FUI%20%26%20Full%20Stack&fontColor=86294e&fontSize=38&animation=fadeIn&height=100&desc=Design%20with%20heart%20%26%20clarity&descAlignY=75&descAlign=50" alt="pastel header" />
-</p>
 
-<!-- Skills: más grandes y centradas -->
+<p align="center">⋆ ˚｡⋆୨୧˚ ✿ ˚୨୧⋆｡˚ ⋆</p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="80" alt="html" />
   <img width="10" />
