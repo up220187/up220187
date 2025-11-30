@@ -14,8 +14,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="nodejs" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="80" alt="bootstrap" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="80" alt="figma" />
 </div>
 
